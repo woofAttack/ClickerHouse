@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 898ed55fe934e4148a3c06cb23dbcd57, type: 3}
+  m_Name: Block - 3
+  m_EditorClassIdentifier: 
+  NameOfPart: "\u0417\u0430\u0433\u0430\u0434\u043E\u0447\u043D\u044B\u0439 \u0431\u043B\u043E\u043A"
+  RarityOfPart: 2
+  LevelOfPart: 12
+  MainSprite: {fileID: -4920278587137394813, guid: 420fef82281274a40adb5eb485603674,
+    type: 3}
+  TypeOfPart: 0
+  MainStats:
+  - Bonus: 0
+    Value: 5
+    typeOfStat: 0
+  - Bonus: 1
+    Value: 5
+    typeOfStat: 0
+  - Bonus: 2
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 3
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 4
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 5
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 6
+    Value: 500
+    typeOfStat: 0
+  - Bonus: 7
+    Value: 500
+    typeOfStat: 0
+  SubStats:
+  - Bonus: 0
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 1
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 2
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 3
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 4
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 5
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 6
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 7
+    Value: 0
+    typeOfStat: 0
+  Parts:
+  - Sprite: {fileID: 7794094567278469870, guid: 420fef82281274a40adb5eb485603674,
+      type: 3}
+    CountToBuild: 10
+    Diff: 0.1
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: 4369774311322689115, guid: 420fef82281274a40adb5eb485603674,
+      type: 3}
+    CountToBuild: 15
+    Diff: 0.2
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: 9103763222730529934, guid: 420fef82281274a40adb5eb485603674,
+      type: 3}
+    CountToBuild: 20
+    Diff: 0.3
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: -8626294098092894273, guid: 420fef82281274a40adb5eb485603674,
+      type: 3}
+    CountToBuild: 20
+    Diff: 0.45
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: -1451763495532999285, guid: 420fef82281274a40adb5eb485603674,
+      type: 3}
+    CountToBuild: 20
+    Diff: 0.6
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: -1794766748168910486, guid: 420fef82281274a40adb5eb485603674,
+      type: 3}
+    CountToBuild: 20
+    Diff: 0.8
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: -4920278587137394813, guid: 420fef82281274a40adb5eb485603674,
+      type: 3}
+    CountToBuild: 20
+    Diff: 1
+    MainStats: []
+    SubStats: []

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 898ed55fe934e4148a3c06cb23dbcd57, type: 3}
+  m_Name: Roof - 1
+  m_EditorClassIdentifier: 
+  NameOfPart: "\u041F\u0440\u043E\u0441\u0442\u0430\u044F \u043A\u0440\u044B\u0448\u0430"
+  RarityOfPart: 0
+  LevelOfPart: 1
+  MainSprite: {fileID: 5345598666432377351, guid: 420fef82281274a40adb5eb485603674,
+    type: 3}
+  TypeOfPart: 1
+  MainStats:
+  - Bonus: 0
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 1
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 2
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 3
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 4
+    Value: 100
+    typeOfStat: 0
+  - Bonus: 5
+    Value: 100
+    typeOfStat: 0
+  - Bonus: 6
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 7
+    Value: 0
+    typeOfStat: 0
+  SubStats:
+  - Bonus: 0
+    Value: 0.5
+    typeOfStat: 0
+  - Bonus: 1
+    Value: 0.5
+    typeOfStat: 0
+  - Bonus: 2
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 3
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 4
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 5
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 6
+    Value: 0
+    typeOfStat: 0
+  - Bonus: 7
+    Value: 0
+    typeOfStat: 0
+  Parts:
+  - Sprite: {fileID: 8246921628178789577, guid: 908d66ff75bb83e4abb10c4bc388d37d,
+      type: 3}
+    CountToBuild: 10
+    Diff: 0.3
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: -5433699958189642117, guid: 908d66ff75bb83e4abb10c4bc388d37d,
+      type: 3}
+    CountToBuild: 15
+    Diff: 0.6
+    MainStats: []
+    SubStats: []
+  - Sprite: {fileID: 8088241200465699463, guid: 908d66ff75bb83e4abb10c4bc388d37d,
+      type: 3}
+    CountToBuild: 20
+    Diff: 1
+    MainStats: []
+    SubStats: []
